@@ -24,14 +24,14 @@ body {
 
 @font-face {
   font-family: "AlarmClock";
-  src: url("./assets/alarm-clock.ttf") format("truetype");
+  src: url("/assets/alarm-clock.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "DigitalDisplay";
-  src: url("./assets/digital-display.ttf") format("truetype");
+  src: url("/assets/digital-display.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
