@@ -29,6 +29,13 @@ body {
   font-style: normal;
 }
 
+@font-face {
+  font-family: "DigitalDisplay";
+  src: url("./assets/digital-display.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #242424;
