@@ -36,6 +36,20 @@ body {
   font-style: normal;
 }
 
+@font-face {
+  font-family: "OpenDisplay";
+  src: url("/assets/open-24-display-st.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "LCD Time";
+  src: url("/assets/lcd-time.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #242424;
