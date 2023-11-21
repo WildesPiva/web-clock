@@ -1,5 +1,12 @@
 .clock {
+  position: relative;
   font-family: "AlarmClock", "Courier New", Courier, monospace;
   font-size: 6rem;
   font-weight: 900;
+}
+
+.placeholder {
+  position: absolute;
+  opacity: 0.08;
+  top: 0;
 }

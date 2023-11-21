@@ -18,6 +18,7 @@ export default function Clock() {
   return (
     <div className="clock">
       <p>{time}</p>
+      <span className="placeholder">88:88:88</span>
     </div>
   );
 }
